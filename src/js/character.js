@@ -10,4 +10,4 @@ export default class Character {
     this.health = 100;
     this.level = 1;
   }
-
+}

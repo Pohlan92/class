@@ -7,4 +7,4 @@ export default class Daemon extends Character {
     this.attack = 10;
     this.defence = 40;
   }
-
+}
